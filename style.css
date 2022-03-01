@@ -13,6 +13,12 @@
   vertical-align: top !important;
 }
 
+.btn-primary:hover {
+  background-color: #579aca !important;
+  border-color: #579aca !important;
+  color: #f9fafb !important;
+}
+
 #oura_logo {
   display: inline-block;
   vertical-align: top;
