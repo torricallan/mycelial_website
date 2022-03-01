@@ -1,20 +1,14 @@
-h1 {
-  color: white;
-  font-family: "hertical", "bogart" sans-serif;
-}
+@font-face{font-family:"AkkuratLL";src:url(/assets/cloud/AkkuratLL-Regular.106b0892.woff2) format("woff2"),url(/assets/cloud/AkkuratLL-Regular.b93e2591.woff) format("woff"),url(/assets/cloud/AkkuratLL-Regular.00b74729.otf) format("opentype");font-weight:400;font-display:fallback}@font-face{font-family:"AkkuratLL";src:url(/assets/cloud/AkkuratLL-Bold.b4dd3d5d.woff2) format("woff2"),url(/assets/cloud/AkkuratLL-Bold.805b741b.woff) format("woff"),url(/assets/cloud/AkkuratLL-Bold.d7eb43d2.otf) format("opentype");font-weight:700;font-display:fallback}
 
-p {
-  color: white;
-  font-family: "hertical", "bogart" sans-serif;
-}
 
 .btn {
   border-radius: 24px !important;
 }
 
 .btn-primary {
-  background-color: #A020F0 !important;
-  border-color: #A020F0 !important;
+  background-color: #f9fafb !important;
+  border-color: #f9fafb !important;
+  color: #579aca !important;
 }
 
 body {
