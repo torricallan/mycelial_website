@@ -9,7 +9,13 @@
   background-color: #f9fafb !important;
   border-color: #f9fafb !important;
   color: #579aca !important;
-  vertical-align: middle;
+  display: inline-block !important;
+  vertical-align: top !important;
+}
+
+#oura_logo {
+  display: inline-block;
+  vertical-align: top;
 }
 
 body {
