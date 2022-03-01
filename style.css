@@ -1,0 +1,29 @@
+h1 {
+  color: white;
+  font-family: "hertical", "bogart" sans-serif;
+}
+
+p {
+  color: white;
+  font-family: "hertical", "bogart" sans-serif;
+}
+
+.btn {
+  border-radius: 24px !important;
+}
+
+.btn-primary {
+  background-color: #A020F0 !important;
+  border-color: #A020F0 !important;
+}
+
+body {
+  background-image: url("background.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.row-margin {
+  margin-top: 15% !important;
+}
